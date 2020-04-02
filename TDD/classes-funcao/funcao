@@ -1,0 +1,26 @@
+# def imprimir_dados(nome, idade=None):
+#     if idade is not None:
+#         print('Nome: {}, Idade: {} '.format(nome, idade))
+#     else:
+#         print('Nome:{} '.format(nome))
+#
+# imprimir_dados('Bárbara', 19)
+
+# Se a idade for nula o algoritimo vai printar apenas o segundo parametro
+
+# def somar_numeros(n1, n2):
+#     soma= n1 + n2
+#     return(soma)
+#
+# resultado = somar_numeros(5, 86)
+# print(resultado)
+
+# guardamos a função somar_numeros em uma variavel para poder vizualizar a soma da função
+
+# def titulos_copa_mundo(pais, *titulos):
+#     print('O pais {} ganhou titulos nos seguintes anos: '.format(pais))
+#
+#     for titulo in titulos:
+#         print(titulo)
+#
+# titulos_copa_mundo('Brasil','1990','1994', '2014')

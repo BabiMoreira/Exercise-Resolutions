@@ -1,0 +1,20 @@
+#
+# pessoa = {
+#     'nome': 'Bárbara',
+#     'idade': 50,
+#     'email': 'babisantos@gmail.com'
+# }
+#
+# print('Olá {}, Seja Bem vindo !'.format(pessoa['nome']))
+# # print(pessoa.get('nome'))
+#
+# pessoa['campo_teste'] = False
+# pessoa.update({'esta_trab': True})
+# print(pessoa)
+
+# comidas = ('bolo','lasanha', 'lasanha', 'amendoim', 'amendoim', 'amendoim', 'banana', 'banana' )
+# print(comidas.count('lasanha'))
+
+# variavel.__gt__() magic methods
+
+
